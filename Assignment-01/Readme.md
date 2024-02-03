@@ -18,7 +18,7 @@ This Python script assesses the quality of a degraded image with respect to an o
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Assignment-1.git
+   git clone https://github.com/DevanshL/Digital-Image-Processing/tree/main/Assignment-01
    ```
 
    
