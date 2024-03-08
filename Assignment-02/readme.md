@@ -24,7 +24,6 @@ This repository contains code to apply various geometric transformations on a gr
 4. **Testing:** 
    - Visualize and verify the transformed images.
 
-## Instructions
 
 Clone the repository:
 
